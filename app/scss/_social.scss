@@ -1,12 +1,12 @@
 .social {
-    &.chart-area {
+    &.chart-area-spx2-june5 {
         max-width: none;
         width: 2160px;
         height: 1080px;
         // padding for square
-        // padding: 80px 650px !important;
+        padding: 80px 650px !important;
         // padding for 1012x506 rectangle
-        padding: 80px 400px !important;
+        // padding: 80px 400px !important;
         margin: 20px;
         background-size: 100%;
         background-repeat: no-repeat;
@@ -22,7 +22,7 @@
         font-size: 54px;
         line-height: 1.2;
         width: 90%;
-        margin: 0 auto 50px !important;
+        margin: 30px auto 50px !important;
         text-align: center;
     }
     & .chart-container {
